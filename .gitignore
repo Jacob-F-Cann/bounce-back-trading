@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project data: too large for GitHub, can be rebuilt
+data/
+*.csv
+!watchlist.csv
+!events_covered.csv
